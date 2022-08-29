@@ -40,6 +40,6 @@ Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia 
 
 
 <div align = "left">
-<img height = "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofigueira&show_icons=true&theme=bear&count_private=true"/>
-<img height = "220em" src="https://github-readme-stats.vercel.app/api?username=marcelofigueira&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofigueira&show_icons=true&theme=bear&count_private=true"/>
+<img height = "240em" src="https://github-readme-stats.vercel.app/api?username=marcelofigueira&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
