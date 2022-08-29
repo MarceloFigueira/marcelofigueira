@@ -1,6 +1,6 @@
 
 # ⚡ Olá, seja bem-vindo!
-
+<img src = "programming-banner.gif" width = "325px" align = "right">
   <div id="badges">
   <a href = "https://github.com/marcelofigueira">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +10,7 @@
 
 Sou desenvolvedor front-end em inicio de carreira, portando pode me chamar de Junior. Ja criei sites e tive uma Agência de Marketing Digital.
 Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia e viagem no tempo.
-<img src = "programming-banner.gif" width = "325px" align = "right">
+
 
 - ❤ Estudante de Flutter
 - 💙 Fã da RaroLabs
