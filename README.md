@@ -34,7 +34,7 @@ Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia 
 - ⚽️ ​​Fundei um site chamado [Cartoleiros](https://www.cartoleiros.com.br) que ja teve mais 150 milhôes de acessos.
 - 🎬 ​​Ja dei entrevistas pro GloboEsporte e fui convidado a participar de eventos junto com Ronaldo Fenômeno.
 - 🔗 ​​Fui 3º lugar no primeiro Tapajós Startup.
-- 🖖 ​​Fundei um clube do livro e um portal sobre Cultura Nerd na Amaônia.
+- 🖖 ​​Fundei um clube do livro e um portal sobre Cultura Nerd na Amazônia.
 
 ---
 
