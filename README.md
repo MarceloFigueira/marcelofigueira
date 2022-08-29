@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedor front-end em inicio de carreira, portando pode me chamar de Junior. Ja criei sites e tive uma Agência de Marketing Digital.
-Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia e viagem no tempo.
+- Sou desenvolvedor front-end em inicio de carreira, portando pode me chamar de Junior. Ja criei sites e tive uma Agência de Marketing Digital.
+- Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia e viagem no tempo.
 
 
 - ❤ Estudante de Flutter
