@@ -1,4 +1,4 @@
-<img src = "work-station.gif" width = "325px" align = "right">
+<img src = "programming-banner.gif" width = "325px" align = "right">
 
 # ⚡ Olá, seja bem-vindo!
   <div id="badges">
