@@ -8,7 +8,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou um Nerd da Amazônia apaixonado por ciência e tecnologia, sou um PC Gamer e fundodador do [Cartoleiros](https://www.cartoleiros.com.br).
+Sou um Nerd da Amazônia apaixonado por ciência e tecnologia, sou um Gamer e fundador do [Cartoleiros](https://www.cartoleiros.com.br) site com mais de 150 milhôes de acessos.
+
+## ⚡ Olá
+
+Sou desenvolvedor front-end em inicio de carreira, portando pode me chamar de Junior. Ja criei sites e tive uma Agência de Marketing Digital.
+Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia e viagem no tempo.
+
 
 - ❤ Estudante de Flutter
 - 💙 Fã da RaroLabs
@@ -18,14 +24,18 @@ Sou um Nerd da Amazônia apaixonado por ciência e tecnologia, sou um PC Gamer e
  
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   
   
 </div>
 
+###  ⚡ Curiosidades
+
+- 🗣 ​​Nasci no norte do Brasil, cresci no norte, e ainda moro no norte. Então você tem aqui uma pessoa que amata farinha, tucupi e açai.
+- 🔗 ​​Fundei um site chamado [Cartoleiros](https://www.cartoleiros.com.br) que ja teve mais 150 milhôes de acessos.
 ---
 
 
