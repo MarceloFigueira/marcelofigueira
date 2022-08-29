@@ -8,10 +8,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou um Nerd da Amazônia apaixonado por ciência e tecnologia, sou um Gamer e fundador do [Cartoleiros](https://www.cartoleiros.com.br) site com mais de 150 milhôes de acessos.
-
-## ⚡ Olá
-
 Sou desenvolvedor front-end em inicio de carreira, portando pode me chamar de Junior. Ja criei sites e tive uma Agência de Marketing Digital.
 Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia e viagem no tempo.
 
@@ -32,7 +28,7 @@ Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia 
   
 </div>
 
-###  ⚡ Curiosidades
+##  ⚡ Curiosidades
 
 - 🗣 ​​Nasci no norte do Brasil, cresci no norte, e ainda moro no norte. Então você tem aqui uma pessoa que amata farinha, tucupi e açai.
 - 🔗 ​​Fundei um site chamado [Cartoleiros](https://www.cartoleiros.com.br) que ja teve mais 150 milhôes de acessos.
