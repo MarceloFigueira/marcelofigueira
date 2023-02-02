@@ -12,7 +12,7 @@ Sou desenvolvedor front-end em inicio de carreira, portando pode me chamar de Ju
 Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia e viagem no tempo.
 
 
-- ❤ Estudante de Flutter
+- ❤ Dev Mobile Flutter
 - 💙 Fã da RaroLabs
 - 🎓 Formado em Sistemas de Informação
 
