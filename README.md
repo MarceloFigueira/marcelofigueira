@@ -13,7 +13,6 @@ Sou um Nerd da Amazônia que ama estudar e conversar sobre ciência, tecnologia 
 
 
 - ❤ Dev Mobile Flutter
-- 💙 Fã da RaroLabs
 - 🎓 Formado em Sistemas de Informação
 
 <div>
